@@ -1,0 +1,68 @@
+{
+  "short_name": "Productivity App",
+  "name": "Productivity App by Sayeed",
+  "description": "Advanced productivity app with Pomodoro timer, mood tracking, and Google Calendar integration",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "utilities", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshot2.png", 
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Add Task",
+      "short_name": "Add Task",
+      "description": "Quickly add a new task",
+      "url": "/todos/new",
+      "icons": [
+        {
+          "src": "icon-add-task.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Start Pomodoro",
+      "short_name": "Pomodoro",
+      "description": "Start a focus session",
+      "url": "/pomodoro",
+      "icons": [
+        {
+          "src": "icon-pomodoro.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/productivity-app/static/css/main.92c1603f.css",
+    "main.js": "/productivity-app/static/js/main.d11a5e0e.js",
+    "index.html": "/productivity-app/index.html",
+    "main.92c1603f.css.map": "/productivity-app/static/css/main.92c1603f.css.map",
+    "main.d11a5e0e.js.map": "/productivity-app/static/js/main.d11a5e0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c1603f.css",
+    "static/js/main.d11a5e0e.js"
+  ]
+}

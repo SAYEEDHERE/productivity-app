@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://SAYEEDHERE.github.io/productivity-app/sitemap.xml
+
+# Block sensitive areas (if any)
+Disallow: /api/
+Disallow: /admin/
